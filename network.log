@@ -1,0 +1,166 @@
+2023/08/06 17:06:49 Listening on localhost:2000
+2023/08/06 17:10:59 Received connection from: [::1]:64911
+2023/08/06 17:10:59 Time of connection: 2023-08-06T17:10:59+03:00
+2023/08/06 17:10:59 Received 14 bytes from the client. Total bytes received: 14
+2023/08/06 17:10:59 Received message: Hello, Server!
+2023/08/06 17:11:00 Error reading: EOF
+2023/08/06 17:15:22 Listening on localhost:2000
+2023/08/06 17:16:18 Listening on localhost:2000
+2023/08/06 17:24:02 Listening on localhost:2000
+2023/08/06 17:24:43 Listening on localhost:2000
+2023/08/06 17:24:50 Received connection from: [::1]:65349
+2023/08/06 17:24:50 Time of connection: 2023-08-06T17:24:50+03:00
+2023/08/06 17:24:50 Received 14 bytes from the client. Total bytes received: 14
+2023/08/06 17:24:50 Received message: Hello, Server!
+2023/08/06 17:24:51 Error reading: EOF
+2023/08/06 17:26:04 Received connection from: [::1]:65385
+2023/08/06 17:26:04 Time of connection: 2023-08-06T17:26:04+03:00
+2023/08/06 17:26:04 Received 14 bytes from the client. Total bytes received: 28
+2023/08/06 17:26:04 Received message: Hello, Server!
+2023/08/06 17:26:05 Error reading: EOF
+2023/08/06 17:26:59 Received connection from: [::1]:65416
+2023/08/06 17:26:59 Time of connection: 2023-08-06T17:26:59+03:00
+2023/08/06 17:26:59 Received 14 bytes from the client. Total bytes received: 42
+2023/08/06 17:26:59 Received message: Hello, Server!
+2023/08/06 17:28:39 Error reading: EOF
+2023/08/06 17:47:23 Listening on localhost:2000
+2023/08/06 17:47:34 Received connection from: [::1]:49650
+2023/08/06 17:47:34 Time of connection: 2023-08-06T17:47:34+03:00
+2023/08/06 17:47:34 Received 14 bytes from the client. Total bytes received: 14
+2023/08/06 17:47:34 Received message: Hello, Server!
+2023/08/06 17:49:14 Connection closed by the client
+2023/08/06 21:26:06 Listening on localhost:2000
+2023/08/06 21:26:20 Connection closed by the client
+2023/08/06 21:26:24 Connection closed by the client
+2023/08/06 21:26:28 Connection closed by the client
+2023/08/06 21:26:32 Connection closed by the client
+2023/08/06 21:26:36 Connection closed by the client
+2023/08/06 21:26:40 Connection closed by the client
+2023/08/06 21:26:44 Connection closed by the client
+2023/08/06 21:26:48 Connection closed by the client
+2023/08/06 21:26:52 Connection closed by the client
+2023/08/06 21:26:56 Connection closed by the client
+2023/08/06 21:27:00 Connection closed by the client
+2023/08/06 21:27:04 Connection closed by the client
+2023/08/06 21:27:08 Connection closed by the client
+2023/08/06 21:27:12 Connection closed by the client
+2023/08/06 23:36:36 Connection closed by the client
+2023/08/06 23:36:40 Connection closed by the client
+2023/08/06 23:36:44 Connection closed by the client
+2023/08/06 23:37:36 Connection closed by the client
+2023/08/06 23:37:41 Connection closed by the client
+2023/08/06 23:37:46 Connection closed by the client
+2023/08/06 23:37:51 Connection closed by the client
+2023/08/06 23:37:56 Connection closed by the client
+2023/08/06 23:38:01 Connection closed by the client
+2023/08/06 23:39:37 Connection closed by the client
+2023/08/06 23:39:42 Connection closed by the client
+2023/08/06 23:39:47 Connection closed by the client
+2023/08/06 23:39:52 Connection closed by the client
+2023/08/06 23:39:57 Connection closed by the client
+2023/08/06 23:40:02 Connection closed by the client
+2023/08/06 23:40:25 Received connection from: 127.0.0.1:56267
+2023/08/06 23:40:25 Time of connection: 2023-08-06T23:40:25+03:00
+2023/08/06 23:40:25 Received 699 bytes from the client. Total bytes received: 699
+2023/08/06 23:40:25 Received message: GET / HTTP/1.1
+Host: 127.0.0.6:2000
+Connection: keep-alive
+sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "YaBrowser";v="23"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.2.765 Yowser/2.5 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru,en;q=0.9,uk;q=0.8,ca;q=0.7
+
+2023/08/06 23:40:35 Connection closed by the client
+2023/08/06 23:40:35 Received connection from: 127.0.0.1:56274
+2023/08/06 23:40:35 Time of connection: 2023-08-06T23:40:35+03:00
+2023/08/06 23:40:35 Received 751 bytes from the client. Total bytes received: 1450
+2023/08/06 23:40:35 Received message: GET / HTTP/1.1
+Host: 127.0.0.1:2000
+Connection: keep-alive
+sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "YaBrowser";v="23"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.2.765 Yowser/2.5 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru,en;q=0.9,uk;q=0.8,ca;q=0.7
+Cookie: csrftoken=Vohkd7yBHZQWzRQrtJQrutFy7gwZeCFd
+
+2023/08/06 23:40:45 Connection closed by the client
+2023/08/06 23:51:00 Connection closed by the client
+2023/08/06 23:51:19 Connection closed by the client
+2023/08/06 23:55:45 Connection closed by the client
+2023/08/06 23:56:03 Connection closed by the client
+2023/08/06 23:56:08 Connection closed by the client
+2023/08/06 23:56:13 Connection closed by the client
+2023/08/06 23:56:19 Connection closed by the client
+2023/08/06 23:56:24 Connection closed by the client
+2023/08/06 23:56:29 Connection closed by the client
+2023/08/07 02:11:33 Connection closed by the client
+2023/08/07 02:18:50 Connection closed by the client
+2023/08/07 02:18:55 Connection closed by the client
+2023/08/07 02:19:00 Connection closed by the client
+2023/08/07 02:19:05 Connection closed by the client
+2023/08/07 02:19:10 Connection closed by the client
+2023/08/07 02:19:24 Connection closed by the client
+2023/08/07 02:19:29 Connection closed by the client
+2023/08/07 02:19:34 Connection closed by the client
+2023/08/07 02:19:39 Connection closed by the client
+2023/08/07 02:19:44 Connection closed by the client
+2023/08/07 02:19:50 Connection closed by the client
+2023/08/07 02:22:10 Connection closed by the client
+2023/08/07 02:22:16 Connection closed by the client
+2023/08/07 02:22:21 Connection closed by the client
+2023/08/07 02:22:26 Connection closed by the client
+2023/08/07 02:22:31 Connection closed by the client
+2023/08/07 02:22:36 Connection closed by the client
+2023/08/07 02:26:03 Connection closed by the client
+2023/08/07 02:26:08 Connection closed by the client
+2023/08/07 02:26:13 Connection closed by the client
+2023/08/07 02:26:18 Connection closed by the client
+2023/08/07 02:26:23 Connection closed by the client
+2023/08/07 02:26:28 Connection closed by the client
+2023/08/07 02:27:05 Connection closed by the client
+2023/08/07 02:27:10 Connection closed by the client
+2023/08/07 02:27:15 Connection closed by the client
+2023/08/07 02:27:20 Connection closed by the client
+2023/08/07 02:27:25 Connection closed by the client
+2023/08/07 02:27:30 Connection closed by the client
+2023/08/07 02:29:19 Connection closed by the client
+2023/08/07 02:29:24 Connection closed by the client
+2023/08/07 02:29:30 Connection closed by the client
+2023/08/07 02:29:35 Connection closed by the client
+2023/08/07 02:29:40 Connection closed by the client
+2023/08/07 02:33:28 Connection closed by the client
+2023/08/07 02:33:33 Connection closed by the client
+2023/08/07 02:33:38 Connection closed by the client
+2023/08/07 02:33:43 Connection closed by the client
+2023/08/07 02:33:48 Connection closed by the client
+2023/08/07 02:33:53 Connection closed by the client
+2023/08/07 03:01:53 Connection closed by the client
+2023/08/07 03:01:58 Connection closed by the client
+2023/08/07 03:02:03 Connection closed by the client
+2023/08/07 03:02:08 Connection closed by the client
+2023/08/07 03:07:19 Connection closed by the client
+2023/08/07 03:07:24 Connection closed by the client
+2023/08/07 03:07:29 Connection closed by the client
+2023/08/07 03:07:34 Connection closed by the client
+2023/08/07 03:07:39 Connection closed by the client
+2023/08/07 03:08:08 Connection closed by the client
+2023/08/07 03:08:13 Connection closed by the client
+2023/08/07 03:08:18 Connection closed by the client
+2023/08/07 03:08:23 Connection closed by the client
+2023/08/07 03:08:28 Connection closed by the client
